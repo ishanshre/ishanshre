@@ -4,11 +4,12 @@
 <hr>
 <br>
 
-<div style="display: flex;">
-  [![Ishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ishanshre&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Ishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ishanshre&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishanshre&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+
 <!--
 **ishanshre/ishanshre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
