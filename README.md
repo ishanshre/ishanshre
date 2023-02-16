@@ -2,7 +2,7 @@
 <h1 align="center">Hello 👋, I'm Ishan Shrestha</h1>
 <h3 align="center">A passionate backend developer from Nepal</h3>
 
-- 🌱 I’m currently learning **FastApi, GO web development and Machine Learning**
+- 🌱 I’m currently learning **GO web development and Machine Learning**
 
 - 💬 Ask me about **Django, Python and Linux**
 
