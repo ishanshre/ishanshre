@@ -7,7 +7,7 @@
 - 💬 Ask me about **Django, Python and Linux**
 
 - 📫 How to reach me **ishan.shrestha356@gmail.com**
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ishanshre&show_icons=true&locale=en&layout=compact&langs_count=10&theme=radical" alt="ishanshre" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ishanshre&show_icons=true&locale=en&layout=compact&langs_count=15&theme=radical" alt="ishanshre" /></p>
 <hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
