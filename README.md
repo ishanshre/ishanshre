@@ -1,10 +1,11 @@
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ishanshre&theme=radical" alt="ishanshre" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ishanshre&show_icons=true&theme=radical" alt="ishanshre" /></p>
 <h1 align="center">Hello 👋, I'm Ishan Shrestha</h1>
 <h3 align="center">A passionate backend developer from Nepal</h3>
 
-- 🌱 I’m currently learning **Rust and Deep Learning**
+- 🌱 I’m currently learning **Golang, Rust and Deep Learning**
 
-- 💬 Ask me about **Django, Python and Linux**
+- 💬 Ask me about **Django, Python, Golang and Linux**
 
 - 📫 How to reach me **ishan.shrestha356@gmail.com**
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ishanshre&show_icons=true&locale=en&layout=compact&langs_count=15&theme=radical" alt="ishanshre" /></p>
