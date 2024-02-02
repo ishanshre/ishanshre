@@ -5,13 +5,13 @@
 <h1 align="center">Hello 👋, I'm Ishan Shrestha</h1>
 <h3 align="center">A passionate backend developer from Nepal</h3>
 
-<p align="center">- 🌱 I’m currently learning **Golang, Rust and Deep Learning**</p>
+<p align="center">🌱 I’m currently learning **Golang, Rust and Deep Learning**</p>
 
-<p align="center">- 💬 Ask me about **Django, Python, Golang and Linux**</p>
+<p align="center">💬 Ask me about **Django, Python, Golang and Linux**</p>
 
-<p align="center">- 💬 Ask me about **Django, Python, Golang and Linux**</p>
+<p align="center">💬 Ask me about **Django, Python, Golang and Linux**</p>
 
-<p align="center">- 📫 How to reach me **ishan.shrestha356@gmail.com**</p>
+<p align="center">📫 How to reach me **ishan.shrestha356@gmail.com**</p>
 
 <hr>
 <h3 align="center">Connect with me:</h3>
