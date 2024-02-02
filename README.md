@@ -1,16 +1,18 @@
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ishanshre&theme=radical" alt="ishanshre" /></p>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ishanshre&show_icons=true&theme=radical" alt="ishanshre" /></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ishanshre&show_icons=true&locale=en&layout=compact&langs_count=15&theme=radical" alt="ishanshre" /></p>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ishanshre" alt="ishanshre" /></a> </p>
 
 <h1 align="center">Hello 👋, I'm Ishan Shrestha</h1>
 <h3 align="center">A passionate backend developer from Nepal</h3>
 
-- 🌱 I’m currently learning **Golang, Rust and Deep Learning**
+<p align="center">- 🌱 I’m currently learning **Golang, Rust and Deep Learning**</p>
 
-- 💬 Ask me about **Django, Python, Golang and Linux**
+<p align="center">- 💬 Ask me about **Django, Python, Golang and Linux**</p>
 
-- 📫 How to reach me **ishan.shrestha356@gmail.com**
+<p align="center">- 💬 Ask me about **Django, Python, Golang and Linux**</p>
+
+<p align="center">- 📫 How to reach me **ishan.shrestha356@gmail.com**</p>
+
 <hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
