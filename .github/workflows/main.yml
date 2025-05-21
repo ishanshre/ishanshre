@@ -16,7 +16,7 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: ishanshre
-          template: repository
+          template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Katmandu
           plugin_activity: yes
