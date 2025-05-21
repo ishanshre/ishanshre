@@ -1,9 +1,4 @@
 <img src="/github-metrics.svg" alt="Metrics" width="100%">
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/ishanshre/ishanshre/output/snake.svg" alt="Snake animation" />
-
-<br >
 <hr>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
